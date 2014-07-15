@@ -1,6 +1,0 @@
-repository notepad
-
-
-changing my first text file 
-
-copied file
